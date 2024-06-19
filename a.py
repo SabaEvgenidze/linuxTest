@@ -1,3 +1,3 @@
-print(aaa)
-a = 12
+print("helloooo")
+a = 12 + 12
 saxeli = "lasha"
